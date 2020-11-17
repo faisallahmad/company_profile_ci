@@ -1,27 +1,27 @@
-<div class="container-fluid">
+<div style="background-color: white !important;" class="container">
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
             <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
         </ol>
-        <div class="carousel-inner ml-5">
+        <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="<?php echo base_url('uploads/img_1.jpg') ?>" style=" width:93%; height: 450px; margin-left: 20px !important;  class="d-block w-100" alt="...">
+            <img src="<?php echo base_url('uploads/img_1.jpg') ?>" style=" width:100%; height: 500px; margin-left: 20px !important;  class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Home</h5>
                 <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
             </div>
             </div>
             <div class="carousel-item">
-            <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style=" width:95%; height: 500px !important;  class="d-block w-100" alt="...">
+            <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style=" width:100%; height: 500px !important;  class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Second slide label</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
             </div>
             <div class="carousel-item">
-            <img src="<?php echo base_url('uploads/img_3.jpg')  ?>" style=" width:95%; height: 500px !important; class="d-block w-100" alt="...">
+            <img src="<?php echo base_url('uploads/img_3.jpg')  ?>" style=" width:100%; height: 500px !important; class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Third slide label</h5>
                 <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
@@ -38,9 +38,9 @@
         </a>
     </div>
 
-    <div class="row ml-4 mt-4">
-        <div class="card bg-dark text-white ml-5">
-        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 540px;" class="card-img" alt="...">
+    <div class="row ml-2 mt-4">
+        <div class="card bg-dark text-white ml-2">
+        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 352px;" class="card-img" alt="...">
             <div class="card-img-overlay">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -48,8 +48,8 @@
             </div>
         </div>
 
-        <div class="card bg-dark text-white ml-5">
-        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 540px;" class="card-img" alt="...">
+        <div class="card bg-dark text-white ml-2">
+        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 352px;" class="card-img" alt="...">
             <div class="card-img-overlay">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -57,8 +57,8 @@
             </div>
         </div>
 
-        <div class="card bg-dark text-white ml-5">
-        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 540px;" class="card-img" alt="...">
+        <div class="card bg-dark text-white ml-2">
+        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 352px;" class="card-img" alt="...">
             <div class="card-img-overlay">
                 <h5 class="card-title">Card title</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>

@@ -6,9 +6,9 @@
         <div id="content-wrapper" class="d-flex flex-column">
 
             <!-- Main Content -->
-            <div id="content">
+            <div style="background-color: white !important;" id="content">
                 <!-- Topbar -->
-                <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: #FFFFFF;">
+                <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <a class="navbar-brand" href="#">Navbar</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -28,8 +28,22 @@
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo base_url('products')  ?>">Products</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="<?php echo base_url('news')  ?>">News</a>
+                        </li> -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            News
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Judul Terakhir</a>
+                            <a class="dropdown-item" href="#">Judul Kedua</a>
+                            <a class="dropdown-item" href="#">Judul Ketiga</a>
+                            <a class="dropdown-item" href="#">Judul Keempat</a>
+                            <a class="dropdown-item" href="#">Judul Kelima</a>
+                            <a class="dropdown-item" href="#">Judul Keenam</a>
+                            <a class="dropdown-item" href="<?php echo base_url('news')  ?>">INDEX</a>
+                            </div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo base_url('partners')  ?>">Partners</a>
