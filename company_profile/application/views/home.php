@@ -1,4 +1,4 @@
-<div style="background-color: white !important;" class="container">
+<div style="background-color: white; margin-top:5px; !important;" class="container">
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -7,7 +7,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="<?php echo base_url('uploads/img_1.jpg') ?>" style=" width:100%; height: 500px; margin-left: 20px !important;  class="d-block w-100" alt="...">
+            <img src="<?php echo base_url('uploads/img_1.jpg') ?>" style=" width:100%; height: 500px; !important;  class="d-block w-100" alt="...">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Home</h5>
                 <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>

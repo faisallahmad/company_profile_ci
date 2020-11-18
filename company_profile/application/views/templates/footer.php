@@ -15,6 +15,18 @@
     <script src="<?php echo base_url() ?>assets/js/demo/chart-area-demo.js"></script>
     <script src="<?php echo base_url() ?>assets/js/demo/chart-pie-demo.js"></script>
 
+    <!-- jQuery -->
+    <script type="text/javascript" src="<?php echo base_url() ?>assetsjs/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="<?php echo base_url() ?>assetsjs/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="<?php echo base_url() ?>assetsjs/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="<?php echo base_url() ?>assetsjs/mdb.min.js"></script>
+    <!-- Your custom scripts (optional) -->
+    <script type="text/javascript"></script>
+
 </body>
 
 </html>
+

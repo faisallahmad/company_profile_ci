@@ -20,4 +20,33 @@
     <!-- Custom styles for this template-->
     <link href="<?php echo base_url() ?>assets/css/sb-admin-2.min.css" rel="stylesheet">
 
+      <!-- MDB icon -->
+        <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+        <!-- Google Fonts Roboto -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+        <!-- Bootstrap core CSS -->
+        <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/bootstrap.min.css">
+        <!-- Material Design Bootstrap -->
+        <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/mdb.min.css">
+        <!-- Your custom styles (optional) -->
+        <link rel="stylesheet" href="<?php echo base_url() ?>assets/css/style.css">
+        <style>
+            body {
+            background-color: #FFFFFF;
+            }
+            .text-poppy-red {
+            color: #ef5350 !important;
+            }
+            .btn-poppy-red {
+            background-color: #ef5350 !important;
+            }
+            .bg-poppy-red {
+            background-color: #ef5350 !important;
+            }
+            .container{ max-width:1650px !important;
+            }
+            
+        </style>
 </head>
