@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div style="background-color: white; margin-top:25px; !important;" class="container">
     <div class="row">
         <div class="col-2 mt-5">
             <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Dehumidifier</button>
@@ -15,7 +15,7 @@
             <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Timber Kiln Dryer</button>
         </div>
         <div class="col-10">
-            <div style="background-color: white;" class="jumbotron">
+        <div style="background-color: white; margin-top:55px;">
                 <h1 style="color: black;" class="display-4">Dehumidifier</h1>
                 <br>
                 <div>

@@ -1,5 +1,5 @@
-<div style="background-color: white !important;"  class="container">
-    <div style="background-color: white;" class="jumbotron">
+<div style="background-color: white; margin-top:35px; !important;" class="container">
+    <div style="background-color: white;">
         <h1 style="color: skyblue;" class="display-6">Air Specialist Company</h1>
         <h1 style="color: black;" class="display-4">Customized for Compliance</h1>
         <br>
@@ -14,4 +14,4 @@
         </div>
         <br>
     </div>
-    
+    <div class="card text-center mt-4">

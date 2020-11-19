@@ -45,7 +45,7 @@
             .bg-poppy-red {
             background-color: #ef5350 !important;
             }
-            .container{ max-width:1650px !important;
+            .container{ max-width:1600px !important;
             }
             
         </style>

@@ -1,102 +1,103 @@
 <div style="background-color: white; margin-top:5px; !important;" class="container">
-    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-            <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-            <img src="<?php echo base_url('uploads/img_1.jpg') ?>" style=" width:100%; height: 500px; !important;  class="d-block w-100" alt="...">
-            <div class="carousel-caption d-none d-md-block">
-                <h5>Home</h5>
-                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-            </div>
-            </div>
-            <div class="carousel-item">
-            <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style=" width:100%; height: 500px !important;  class="d-block w-100" alt="...">
-            <div class="carousel-caption d-none d-md-block">
-                <h5>Second slide label</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-            </div>
-            <div class="carousel-item">
-            <img src="<?php echo base_url('uploads/img_3.jpg')  ?>" style=" width:100%; height: 500px !important; class="d-block w-100" alt="...">
-            <div class="carousel-caption d-none d-md-block">
-                <h5>Third slide label</h5>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-            </div>
+    <!--Carousel Wrapper-->
+    <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+    <!--Indicators-->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-2" data-slide-to="1"></li>
+        <li data-target="#carousel-example-2" data-slide-to="2"></li>
+        <li data-target="#carousel-example-2" data-slide-to="3"></li>
+    </ol>
+    <!--/.Indicators-->
+    <!--Slides-->
+    <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+            <div class="view">
+                <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(68).jpg"
+                alt="First slide">
+                <div class="mask rgba-black-light"></div>
+        </div>
+            <div class="card-img-overlay ml-5 mt-5">
+                <h2 style="font-weight: bold; color: yellow; font-size: 50px" class="card-title">Precision Dehumidifier</h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">A Perfect Environmental </h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">For Your Workspace</h2>
             </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
+        <div class="carousel-item">
+            <!--Mask color-->
+            <div class="view">
+                <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg"
+                alt="Second slide">
+                <div class="mask rgba-black-strong"></div>
+            </div>
+            <div class="card-img-overlay ml-5 mt-5">
+                <h2 style="font-weight: bold; color: yellow; font-size: 50px" class="card-title">Precision Dehumidifier</h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">A Perfect Environmental </h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">For Your Workspace</h2>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <!--Mask color-->
+            <div class="view">
+                <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(6).jpg"
+                alt="Second slide">
+                <div class="mask rgba-black-strong"></div>
+            </div>
+            <div class="card-img-overlay ml-5 mt-5">
+                <h2 style="font-weight: bold; color: yellow; font-size: 50px" class="card-title">Precision Dehumidifier</h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">A Perfect Environmental </h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">For Your Workspace</h2>
+            </div>
+        </div>
+        <div class="carousel-item">
+        <!--Mask color-->
+        <div class="view">
+            <img class="d-block w-100" src="https://mdbootstrap.com/img/Photos/Slides/img%20(9).jpg"
+            alt="Third slide">
+            <div class="mask rgba-black-slight"></div>
+        </div>
+        <div class="card-img-overlay ml-5 mt-5">
+                <h2 style="font-weight: bold; color: yellow; font-size: 50px" class="card-title">Precision Dehumidifier</h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">A Perfect Environmental </h2>
+                <h2 style="color: white; font-size: 50px" class="card-title">For Your Workspace</h2>
+            </div>
+        </div>
     </div>
+    <!--/.Slides-->
+    <!--Controls-->
+    <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    <!--/.Controls-->
+    </div>
+    <!--/.Carousel Wrapper-->
 
-    <div class="row ml-2 mt-4">
-        <div class="card bg-dark text-white ml-2">
-        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 352px;" class="card-img" alt="...">
+    <div class="row ml-1 mt-4">
+        <div style="max-width:490px !important;" class="card bg-dark text-white">
+        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 490px;" class="card-img" alt="...">
             <div class="card-img-overlay">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text">Last updated 3 mins ago</p>
+                <h2 style="font-weight: bold;" class="card-title">SERVICES</h2>
             </div>
         </div>
 
-        <div class="card bg-dark text-white ml-2">
-        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 352px;" class="card-img" alt="...">
+        <div style="max-width:490px !important;" class="card bg-dark text-white ml-5">
+        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 490px;" class="card-img" alt="...">
             <div class="card-img-overlay">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text">Last updated 3 mins ago</p>
+                <h2 style="font-weight: bold;" class="card-title">PRODUCTS</h2>
             </div>
         </div>
 
-        <div class="card bg-dark text-white ml-2">
-        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 352px;" class="card-img" alt="...">
+        <div style="max-width:490px !important;" class="card bg-dark text-white ml-5">
+        <img src="<?php echo base_url('uploads/img_2.jpg')  ?>" style="width: 490px;" class="card-img" alt="...">
             <div class="card-img-overlay">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text">Last updated 3 mins ago</p>
+                <h2 style="font-weight: bold;" class="card-title">NEWS</h2>
             </div>
         </div>        
     </div>
 
     <div class="card text-center mt-4">
-        <div class="card-body" style="background: grey; !important;">
-            <div class="row col d-flex justify-content-center">
-                <div style="margin-right: 15px;">
-                    <h5 class="card-title" style="color: white; !important;">Imprint</h5>
-                </div>
-                <div style="margin-right: 15px;">
-                    <h5 class="card-title" style="color: white; !important;">Privacy Notice</h5>
-                </div>
-                <div style="margin-right: 15px;">
-                    <h5 class="card-title" style="color: white; !important;">Contact</h5>
-                </div>
-                <div style="margin-right: 15px;">
-                    <h5 class="card-title" style="color: white; !important;">Download</h5>
-                </div>
-            </div>
-                <p class="card-text" style="color: white; !important;">2020 robatherm</p>
-                <div class="row col d-flex justify-content-center">
-                    <div style="margin-right: 15px;">
-                        <h5 class="card-title" style="color: white; !important;">Imprint</h5>
-                    </div>
-                    <div style="margin-right: 15px;">
-                        <h5 class="card-title" style="color: white; !important;">Privacy Notice</h5>
-                    </div>
-                    <div style="margin-right: 15px;">
-                        <h5 class="card-title" style="color: white; !important;">Contact</h5>
-                    </div>
-                    <div style="margin-right: 15px;">
-                        <h5 class="card-title" style="color: white; !important;">Download</h5>
-                    </div>
-                </div>
-            </div>
-        </div>

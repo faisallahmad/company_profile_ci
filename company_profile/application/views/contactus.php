@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div style="background-color: white; margin-top:25px; !important;" class="container">
     <div class="row">
         <div class="col-2 mt-5">
             <h6 style="color: blue;" class="display-6">PT ALAM TEHNIK SEMESTA</h6>
@@ -21,7 +21,7 @@
             <h6 style="color: black;">Cibubur - Indonesia</h6>
         </div>
         <div class="col-10">
-            <div style="background-color: white;" class="jumbotron">
+            <div style="background-color: white; margin-top:55px;">
                 <h1 style="color: black;" class="display-4">Feel Free To Ask Us About Anything</h1>
                 <br>
                 <h1 style="color: black;" class="display-4">Customer Services</h1>

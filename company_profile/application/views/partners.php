@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div style="background-color: white; margin-top:25px; !important;" class="container">
     <div class="row">
         <div class="col-2 mt-5">
             <button style="height: 100px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Partner Logo</button>
@@ -7,7 +7,7 @@
             <button style="height: 100px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Partner Logo</button>
         </div>
         <div class="col-10">
-            <div style="background-color: white;" class="jumbotron">
+            <div style="background-color: white; margin-top:55px;">
                 <h1 style="color: black;" class="display-4">It's All About Trust</h1>
                 <div>
                     <img src="<?php echo base_url('uploads/img_1.jpg')  ?>" style=" width:93%; height: 450px; margin-left: 20px !important;" class="img-fluid" alt="Responsive image">

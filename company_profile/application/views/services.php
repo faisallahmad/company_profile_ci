@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div style="background-color: white; margin-top:25px; !important;" class="container">
     <div class="row">
         <div class="col-2 mt-5">
             <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Designing</button>
@@ -8,7 +8,7 @@
             <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Certification</button>
         </div>
         <div class="col-10">
-            <div style="background-color: white;" class="jumbotron">
+            <div style="background-color: white; margin-top:55px;">
                 <h1 style="color: black;" class="display-4">Design is Everything</h1>
                 <br>
                 <p style="font-size: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia eum, enim nisi eligendi, culpa tempore deleniti velit harum itaque optio hic voluptatibus iusto adipisci maxime sunt exercitationem soluta temporibus voluptates! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus praesentium ea odit blanditiis ullam. Voluptatibus, architecto! Necessitatibus vero obcaecati laboriosam aliquam repellat accusantium aliquid voluptatem commodi voluptate doloribus, eius sequi.</p>
