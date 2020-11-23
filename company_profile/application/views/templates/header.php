@@ -50,6 +50,10 @@
             }
             .container{ max-width:1600px !important;
             }
+            .container-xl{ max-width:1567px !important;
+            }
+            .container-lg{ max-width:1300px !important;
+            }
             .navbar {
                 box-shadow: none;
                 max-height: 30px;

@@ -17,8 +17,12 @@
 <nav class="navbar navbar-expand-lg navbar-light">
 
     <div id="topheader" class="container">
+     <!-- Collapse button -->
+     <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class=""><i class="fas fa-bars fa-1x"></i></span>
+     </button>
+
         <!-- Collapsible content -->
-        <div class="collapse navbar-collapse">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
