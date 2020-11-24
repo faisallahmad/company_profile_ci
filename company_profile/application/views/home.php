@@ -1,4 +1,4 @@
-<div style="background-color: white; !important;" class="container">
+<div  id="topSection" style="background-color: white; !important;" class="container">
 	<!--Carousel Wrapper-->
 	<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 		<!--Indicators-->

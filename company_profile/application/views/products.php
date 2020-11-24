@@ -1,25 +1,25 @@
-<div style="background-color: white; margin-top:25px; !important;" class="container">
+<div style="background-color: white; margin-top:45px; !important;" class="container">
     <div class="row">
-        <div class="col-2 mt-5">
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Dehumidifier</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">AHU</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Cool Dry Storage</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Cold Storage</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Drying Room</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Stabily Test</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Laminar Air Flow</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Filtered Air Supply</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Water Chiller</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Conveyor Cooler</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Dust Collector</button>
-            <button style="font-size: 20px;" type="button" class="btn btn-secondary col-12 mt-2 mb-1">Timber Kiln Dryer</button>
+        <div class="col-2">
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Dehumidifier</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">AHU</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Cool Dry Storage</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Cold Storage</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Drying Room</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Stabily Test</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Laminar Air Flow</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Filtered Air Supply</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Water Chiller</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Conveyor Cooler</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Dust Collector</button>
+            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">Timber Kiln Dryer</button>
         </div>
         <div class="col-10">
-        <div style="background-color: white; margin-top:55px;">
+        <div style="background-color: white;">
                 <h1 style="color: black;" class="display-4">Dehumidifier</h1>
                 <br>
                 <div>
-                    <img src="<?php echo base_url('uploads/img_1.jpg')  ?>" style=" width:93%; height: 450px; margin-left: 20px !important;" class="img-fluid" alt="Responsive image">
+                    <img src="<?php echo base_url('uploads/img_1.jpg')  ?>" style=" width:100%; height: 450px; !important;" class="img-fluid" alt="Responsive image">
                 </div>
                 <br>
                 <p style="font-size: 20px;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis laborum, veniam dolor sapiente perferendis unde deserunt commodi ullam in placeat vel. Error officia expedita non, quibusdam consequuntur qui enim eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem dicta, ratione autem nam maxime aut, voluptates pariatur et modi beatae illum tempora voluptatibus sed itaque non ex provident. Aliquam, animi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, amet vel laboriosam nostrum voluptatem dicta. Sapiente natus et earum, nulla, alias quos quo perferendis, ad hic nihil ducimus culpa ullam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque quam, quaerat animi, officiis commodi atque, odit rem velit doloremque dolores aperiam! Eaque, vero commodi. Sequi neque quas obcaecati suscipit nihil. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi repellat reiciendis, sunt ipsam nisi numquam ullam nulla minus commodi accusamus assumenda, debitis, vitae natus eaque deleniti provident quo ad voluptatibus.  </p>
@@ -79,4 +79,3 @@
             </div>
         </div>
     </div>
-</div>
