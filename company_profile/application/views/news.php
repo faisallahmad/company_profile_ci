@@ -2,7 +2,44 @@
     <div class="row">
         <div class="col-2">
             <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">INDEX</button>
-            <button style="height: 100px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">INDEX</button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+            <button type="button" class="btn btn-primary px-3"></button>
+
+            <!-- <button style="height: 100px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">INDEX</button> -->
             <h3 style="color: blue;" class="display-6">Judul Random, Ikuti Blink atau Cross Over Panel Diatas</h3>
         </div>
         <div class="col-10">
