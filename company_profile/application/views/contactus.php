@@ -36,3 +36,11 @@
             </div>
         </div>
     </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a id="back-to-top" href="#" class="btn btn-light btn-lg px-3 back-to-top" role="button"><i
+			class="fas fa-chevron-up"></i></a>

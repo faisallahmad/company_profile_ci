@@ -1,48 +1,57 @@
 <div style="background-color: white; margin-top:45px; !important;" class="container">
     <div class="row">
-        <div class="col-2">
-            <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">INDEX</button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
-            <button type="button" class="btn btn-primary px-3"></button>
+        <div class="col-sm-3 col-md-3 col-lg-2">
+            <!-- <button style="font-size: 15px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">INDEX</button> -->
+            <!-- <a style="font-size: 13px;" class="btn background_2 text_color text-left" href="#Training" role="button">INDEX</a> -->
+            
+            <a href="<?php echo base_url('magazine')  ?>" ><button type="button" class="type_1">INDEX</button></a>
+            
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_3"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_4"></button>
 
-            <!-- <button style="height: 100px;" type="button" class="btn btn-light col-12 mt-2 mb-1 text-left">INDEX</button> -->
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_4"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+
+
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_3"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+
+            <button type="button" class="type_3"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_5"></button>
+            <button type="button" class="type_2"></button>
+
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_3"></button>
+
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_4"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_4"></button>
+            <button type="button" class="type_2"></button>
+            <button type="button" class="type_2"></button>
+
             <h3 style="color: blue;" class="display-6">Judul Random, Ikuti Blink atau Cross Over Panel Diatas</h3>
         </div>
-        <div class="col-10">
+        <div class="col-sm-9 col-md-9 col-lg-10">
         <div style="background-color: white;">
                 <h1 style="color: black;" class="display-4">Small is Big Difference</h1>
                 <br>
@@ -56,3 +65,6 @@
             </div>
         </div>
     </div>
+
+    <a id="back-to-top" href="#" class="btn btn-light btn-lg px-3 back-to-top" role="button"><i
+			class="fas fa-chevron-up"></i></a>

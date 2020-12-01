@@ -12,6 +12,7 @@
         </a>
         <p  style="margin-bottom: 0px; color: #01aef0; font-size: 17px; font-weight: bold" class='text-right serif'>CALL CENTER</p>
         <p  style="margin-bottom: 0px; color: #626262; font-size: 27px; font-weight: bold" class='text-right'>+6221 3500586</p>
+        <p  style="margin-bottom: 0px; color: #01aef0; font-size: 17px; font-weight: bold" class='text-right serif d-lg-none'>or ASK US NOW!</p>
     </div>
 
 <nav class="navbar navbar-expand-lg navbar-light">
@@ -22,7 +23,7 @@
      </button>
 
         <!-- Collapsible content -->
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse white" id="navbarSupportedContent">
 
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
@@ -62,16 +63,7 @@
                 </li>
             </ul>
             <!-- Links -->
-
-            <!-- Social Icon  -->
-            <!-- <ul class="navbar-nav nav-flex-icons">
-                <li class="nav-item">
-                    <h5 style="font-weight: bold; color: skyblue; align-items: center" >or ASK US NOW!</h5>
-                </li>
-            </ul> -->
-            <ul class="navbar-nav">
-            <span style="color: #01aef0; font-size: 17px; font-weight: bold" class="align-middle">or ASK US NOW!</span>
-            </ul>
+            <div style="color: #01aef0; font-size: 17px; font-weight: bold"  class="d-none d-lg-block">or ASK US NOW!</div>
         </div>
         <!-- Collapsible content -->
        
@@ -79,6 +71,9 @@
     
 </nav>
 <div class="container">
-<hr style="border: 3px solid #01aef0; margin-top: 0px; margin-bottom: 0px">
+    <hr class="d-none d-lg-block" style="border: 5px solid #01aef0; margin-top: 0px; margin-bottom: 0px">
+    <hr class="d-lg-none" style="border: 3px solid #01aef0; margin-top: 7px; margin-bottom: 0px">
 </div>
+
+
 <!--/.Navbar-->

@@ -14,3 +14,8 @@
         </div>
         <br>
     </div>
+    <br>
+    <br>
+
+    <a id="back-to-top" href="#" class="btn btn-light px-3 btn-lg back-to-top" role="button"><i
+			class="fas fa-chevron-up"></i></a>
