@@ -98,6 +98,14 @@
           color: #626262;
       }
 
+      .text_color_blue {
+          color: #01aef0;
+      }
+
+      .text_color_dark_grey {
+          color: #626262;
+      }
+
       .background_2 {
           width: 210px;
           background-color: #F2F2F2;
@@ -160,3 +168,15 @@
           });
       });
   </script>
+    <!-- <script>
+    $(document).ready(function() {
+        $( ".mr-auto .nav-item" ).bind( "click", function(event) {
+            event.preventDefault();
+            var clickedItem = $( this );
+            $( ".mr-auto .nav-item" ).each( function() {
+                $( this ).removeClass( "active" );
+            });
+            clickedItem.addClass( "active" );
+        });
+    });
+    </script> -->

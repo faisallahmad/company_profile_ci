@@ -18,10 +18,10 @@
 							alt="First slide">
 						<div class="mask rgba-black-light"></div>
 					</div>
-					<div class="card-img-overlay ml-5 mt-5">
+					<div class="ml-5 mt-3">
 						<div class="d-lg-none">
-							<h6 style="color: white;" class="card-title">A Perfect Environmental </h6>
-							<h6 style="color: white;" class="card-title">For Your Workspace</h6>
+							<h3 style="color: black; font-weight: 800 " class="card-title">1. A Perfect Environmental </h3>
+							<h6 style="color: black;" class="card-title">For Your Workspace</h6>
 						</div>
 					</div>
 
@@ -41,11 +41,10 @@
 							alt="Second slide">
 						<div class="mask rgba-black-strong"></div>
 					</div>
-					<div class="card-img-overlay ml-5 mt-5">
+					<div class="ml-5 mt-3">
 						<div class="d-lg-none">
-							<h6 style="font-weight: bold; color: yellow;" class="card-title">123</h6>
-							<h6 style="color: white;" class="card-title">A Perfect Environmental </h6>
-							<h6 style="color: white;" class="card-title">For Your Workspace</h6>
+							<h3 style="color: black; font-weight: 800 " class="card-title">2. A Perfect Environmental </h3>
+							<h6 style="color: black;" class="card-title">For Your Workspace</h6>
 						</div>
 					</div>
 
@@ -65,11 +64,10 @@
 							alt="Second slide">
 						<div class="mask rgba-black-strong"></div>
 					</div>
-					<div class="card-img-overlay ml-5 mt-5">
+					<div class="ml-5 mt-3">
 						<div class="d-lg-none">
-							<h6 style="font-weight: bold; color: yellow;" class="card-title">123</h6>
-							<h6 style="color: white;" class="card-title">A Perfect Environmental </h6>
-							<h6 style="color: white;" class="card-title">For Your Workspace</h6>
+							<h3 style="color: black; font-weight: 800 " class="card-title">3. A Perfect Environmental </h3>
+							<h6 style="color: black;" class="card-title">For Your Workspace</h6>
 						</div>
 					</div>
 
@@ -90,11 +88,17 @@
 							alt="Third slide">
 						<div class="mask rgba-black-slight"></div>
 					</div>
-					<div class="card-img-overlay ml-5 mt-5">
+					<!-- <div class="card-img-overlay ml-5 mt-5">
 						<div class="d-lg-none">
 							<h6 style="font-weight: bold; color: yellow;" class="card-title">123</h6>
 							<h6 style="color: white;" class="card-title">A Perfect Environmental </h6>
 							<h6 style="color: white;" class="card-title">For Your Workspace</h6>
+						</div>
+					</div> -->
+					<div class="ml-5 mt-3">
+						<div class="d-lg-none">
+							<h3 style="color: black; font-weight: 800 " class="card-title">4. A Perfect Environmental </h3>
+							<h6 style="color: black;" class="card-title">For Your Workspace</h6>
 						</div>
 					</div>
 

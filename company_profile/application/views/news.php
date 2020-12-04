@@ -53,15 +53,105 @@
         </div>
         <div class="col-sm-9 col-md-9 col-lg-10">
         <div style="background-color: white;">
-                <h1 style="color: black;" class="display-4">Small is Big Difference</h1>
-                <br>
-                <p style="font-size: 20px;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis laborum, veniam dolor sapiente perferendis unde deserunt commodi ullam in placeat vel. Error officia expedita non, quibusdam consequuntur qui enim eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem dicta, ratione autem nam maxime aut, voluptates pariatur et modi beatae illum tempora voluptatibus sed itaque non ex provident. Aliquam, animi! Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, amet vel laboriosam nostrum voluptatem dicta. Sapiente natus et earum, nulla, alias quos quo perferendis, ad hic nihil ducimus culpa ullam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque quam, quaerat animi, officiis commodi atque, odit rem velit doloremque dolores aperiam! Eaque, vero commodi. Sequi neque quas obcaecati suscipit nihil. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi repellat reiciendis, sunt ipsam nisi numquam ullam nulla minus commodi accusamus assumenda, debitis, vitae natus eaque deleniti provident quo ad voluptatibus.  </p>
-                <br>
-                <div>
-                    <img src="<?php echo base_url('uploads/img_1.jpg')  ?>" style=" width:100%; height: 450px; !important;" class="img-fluid" alt="Responsive image">
+            <h3 style="font-weight: bold; font-size: 33px;" class="text_color_dark_grey">NEWS INDEX</h3>
+                <!-- Grid row -->
+                <div style="margin-top: 30px;"  class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Judul Pertama Disini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
                 </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Disusul Judul Kedua Disini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Andai Judul Ketiga Terakhir Panjang Makan Akan Tampil Seperti ini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Disusul Judul Keempat<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Serta Judul Kelima Terkini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+                <!-- Grid row -->
+
+                <!-- Grid row -->
+                <div style="margin-top: 30px;"  class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Jeda, Lalu Mulai Berikutnya Disini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Disusul Judul Kedua Disini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Andai Judul Ketiga Terakhir Panjang Makan Akan Tampil Seperti ini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Disusul Judul Keempat<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Serta Judul Kelima Terkini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+                <!-- Grid row -->
+
+                <!-- Grid row -->
+                <div style="margin-top: 30px;"  class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Jeda, Lalu Mulai Berikutnya Disini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Disusul Judul Kedua Disini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Andai Judul Ketiga Terakhir Panjang Makan Akan Tampil Seperti ini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Disusul Judul Keempat<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <h5 class="text_color mr-1">Serta Judul Kelima Terkini<span style="font-size: 15px; padding-left: 5px" class="text_color_blue">23/11/20</span></h5>
+                    </div>
+                </div>
+                <!-- Grid row -->
                 <br>
-                <p style="font-size: 20px;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis laborum, veniam dolor sapiente perferendis unde deserunt commodi ullam in placeat vel. Error officia expedita non, quibusdam consequuntur qui enim eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem dicta, ratione autem nam maxime aut, voluptates pariatur et modi beatae illum tempora voluptatibus sed itaque non ex provident. Aliquam, animi! Lorem ipsum dolor sit amet consectetur adipisicing elit.  </p>
+                <br>
+                <br>
             </div>
         </div>
     </div>

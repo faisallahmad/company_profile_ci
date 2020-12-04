@@ -27,22 +27,24 @@
 
             <!-- Links -->
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
+                <!-- <li class="nav-item active">
                     <a class="nav-link" href="<?php echo base_url('home')  ?>">Home <span class="sr-only">(current)</span></a>
+                </li> -->
+                <li <?php if($this->uri->segment(1)=="home"){echo 'class="nav-item active"';}?> >
+                <a style="font-weight: bold;"  class="nav-link" href="<?php echo base_url(); ?>/home" >Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo base_url('aboutus')  ?>">About Us</a>
+
+                <li <?php if($this->uri->segment(1)=="aboutus"){echo 'class="nav-item active"';}?> >
+                    <a style="font-weight: bold;" class="nav-link" href="<?php echo base_url('aboutus')  ?>">About Us</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo base_url('services')  ?>">Services</a>
+                <li <?php if($this->uri->segment(1)=="services"){echo 'class="nav-item active"';}?> >
+                    <a style="font-weight: bold;" class="nav-link" href="<?php echo base_url('services')  ?>">Services</a>
                 </li>
-                <li class="nav-item">
-            
-                    <a class="nav-link" href="<?php echo base_url('products')  ?>">Products</a>
-                    
+                <li <?php if($this->uri->segment(1)=="products"){echo 'class="nav-item active"';}?> >
+                    <a style="font-weight: bold;" class="nav-link" href="<?php echo base_url('products')  ?>">Products</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a style="font-weight: 600; color: #999999" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         News
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -55,11 +57,11 @@
                         <a class="dropdown-item" href="<?php echo base_url('news')  ?>">INDEX</a>
                     </div>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo base_url('partners')  ?>">Partners</a>
+                <li <?php if($this->uri->segment(1)=="partners"){echo 'class="nav-item active"';}?> >
+                    <a style="font-weight: bold;" class="nav-link" href="<?php echo base_url('partners')  ?>">Partners</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="<?php echo base_url('contactus')  ?>">Contact Us</a>
+                <li <?php if($this->uri->segment(1)=="contactus"){echo 'class="nav-item active"';}?> >
+                    <a style="font-weight: bold;" class="nav-link" href="<?php echo base_url('contactus')  ?>">Contact Us</a>
                 </li>
             </ul>
             <!-- Links -->
